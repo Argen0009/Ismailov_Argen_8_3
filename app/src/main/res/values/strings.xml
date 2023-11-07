@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ismailov_Argen_8_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="alive_death">alive/death</string>
+</resources>
